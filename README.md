@@ -8,7 +8,8 @@ This RC Car is nearly have the price to any premade online rc car you will find.
 
 Instruction & Assembly Manual: (WILL RELEASE IN WITHIN 1-2 WEEKS OF MODEL RELEASE)
 
-_****PROJECT STILL IN WORKS, DO NOT DOWNLOAD OR PRINT FILES UNTIL THIS TEXT IS GONE, UNFINSHED MODEL WILL RESULT IN CAR NOT WORKING****_
+
+_****STABLE RELEASE 1.0****_
  
 
 Features
