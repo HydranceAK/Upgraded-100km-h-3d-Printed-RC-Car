@@ -16,36 +16,36 @@ _****STABLE RELEASE 1.0****_
 
 Features
 
-4WD Drivetrain
+-4WD Drivetrain
 
-Top Speed: - 90km/h (untested as of today)
+-Top Speed: - 90km/h (untested as of today)
 
-Independent Suspension
+-Independent Suspension
 
-Fully metal drive train
+-Fully metal drive train
 
-TPU parts for flexible components (tires, dampening mounts, impact zones)
+-TPU parts for flexible components (tires, dampening mounts, impact zones)
 
-PETG parts for strong structural elements (chassis, arms, mounts)
+-PETG parts for strong structural elements (chassis, arms, mounts)
 
 
 **Printing Notes**
 
 
-TPU recommended for flexible and shock-absorption components
+-TPU recommended for flexible and shock-absorption components
 
-PETG recommended for strength, heat resistance, and rigidity
+-PETG recommended for strength, heat resistance, and rigidity
 
-Everything can be printed on Bambu Lab a1 (0.4 or 0.6 nozzle)
+-Everything can be printed on Bambu Lab a1 (0.4 or 0.6 nozzle)
 
-Hardware, electronics, and drivetrain components sourced Amazon and AliExpress
+-Hardware, electronics, and drivetrain components sourced Amazon and AliExpress
 
 **Tools you will need**
 
-Sodering machine or lighter to hear threaded inserts
-Screw Driver
-Cutters
-Pliers
+-Sodering machine or lighter to hear threaded inserts
+-Screw Driver
+-Cutters
+-Pliers
 
 
 **Disclaimer**
