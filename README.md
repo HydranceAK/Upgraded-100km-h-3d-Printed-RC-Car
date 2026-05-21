@@ -7,6 +7,7 @@ larger frame, more space for adjustments, and an overall polished and improved d
 This RC Car is nearly have the price to any premade online rc car you will find. This car comes with perks of being completely customizable. All source files are provided for completely free, you can make any changes and share for others to use. You can buy replacements parts for dirt cheap, and print anything for under $0.50 if your car breaks.
 
 Instruction & Assembly Manual: [**LINK TO MANUAL**](https://fanciful-zabaione-62d97d.netlify.app/)
+Youtube Video: [**LINK TO YOUTUBE CHANNEL**](https://www.youtube.com/@HydranceYT)
 
 
 _****STABLE RELEASE 1.0****_
