@@ -10,6 +10,7 @@ Instruction & Assembly Manual: [**LINK TO MANUAL**](https://fanciful-zabaione-62
 
 Youtube Video: [**LINK TO YOUTUBE CHANNEL**](https://www.youtube.com/@HydranceYT)
 
+Solidworks and source files are available for purchase on my website: COMING SOON 
 
 _****STABLE RELEASE 1.0****_
  
