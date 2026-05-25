@@ -12,7 +12,19 @@ Youtube Video: [**LINK TO YOUTUBE CHANNEL**](https://www.youtube.com/@HydranceYT
 
 Solidworks and source files are available for purchase on my website: COMING SOON 
 
-_****STABLE RELEASE 1.0****_
+_****STABLE RELEASE 1.5****_
+
+Patch notes:
+
+- Strengthened frame
+- Strengthened wheel hubs
+- Switched out axles for different type, aliexpress variant to weak
+- Designed frame for rougher bashing
+- Screw holes & lengths adjusted
+- Frame & suspension arm rubbing fixed
+
+
+
  
 
 Features
