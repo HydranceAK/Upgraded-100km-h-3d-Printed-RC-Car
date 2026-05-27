@@ -85,4 +85,10 @@ Email: abdusamaku@gmail.com
 
 YouTube: https://youtube.com/@HydranceYT
 
+
+
 <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/5ccfc5cb-61f2-4aaa-9233-2c41193e5bca" />
+<img width="785" height="493" alt="Screenshot 2026-05-21 185803" src="https://github.com/user-attachments/assets/16414545-0f7b-4e86-ba78-e91d9447481b" />
+<img width="4000" height="3000" alt="20260521_122201" src="https://github.com/user-attachments/assets/729a52d3-1daa-42eb-a5ec-1f98e88f992a" />
+<img width="4000" height="3000" alt="20260521_111758" src="https://github.com/user-attachments/assets/deebd705-8166-473a-98ff-90488c924a66" />
+<img width="1179" height="607" alt="Screenshot 2026-05-21 185649" src="https://github.com/user-attachments/assets/9bb14c65-0bc5-4107-821a-d5b78dc3dda2" />
