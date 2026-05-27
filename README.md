@@ -12,18 +12,22 @@ Youtube Video: [**LINK TO YOUTUBE CHANNEL**](https://www.youtube.com/@HydranceYT
 
 Solidworks and source files are available for purchase on my website: COMING SOON 
 
-_****STABLE RELEASE 1.5****_
+_****STABLE RELEASE 2.0****_
 
 Patch notes:
 
-- Strengthened frame
-- Strengthened wheel hubs
-- Switched out axles for different type, aliexpress variant to weak
-- Designed frame for rougher bashing
-- Screw holes & lengths adjusted
-- Frame & suspension arm rubbing fixed
+- Frame heavily fortified
+- Suspension Arms adjusted
+- All wheels hubs adjusted for a new axle
+- Steering arms strengthened
+- Hole sizes fine tuned
+- Aesthetic changes
 
+History of Releases:
 
+- V1 May 21st 2026
+- V1.5 May 25th 2026
+- V2 May 27th 2026
 
  
 
