@@ -35,7 +35,7 @@ Features
 
 -4WD Drivetrain
 
--Top Speed: - 90km/h (untested as of today)
+-Top Speed: - 100km/h (untested as of today)
 
 -Independent Suspension
 
