@@ -12,22 +12,24 @@ Youtube Video: [**LINK TO YOUTUBE CHANNEL**](https://www.youtube.com/@HydranceYT
 
 Solidworks and source files are available for purchase on my website: COMING SOON 
 
-_****STABLE RELEASE 2.0****_
+_****STABLE RELEASE 3.0****_
+_****BETA RELEASE 4.0****_
 
 Patch notes:
 
-- Frame heavily fortified
-- Suspension Arms adjusted
-- All wheels hubs adjusted for a new axle
-- Steering arms strengthened
-- Hole sizes fine tuned
-- Aesthetic changes
+- Suspension arms changed, much bulkier, double width
+- Wheel hubs adjusted for quality
+- Minor changes in axle supporter and battery stopper
+- Frame lengthend and thickened
+- Stability and strength improved
 
 History of Releases:
 
 - V1 May 21st 2026
 - V1.5 May 25th 2026
 - V2 May 27th 2026
+- V3 June 21st 2026 (only on makerworld)
+- V4 June 29th 2026
 
  
 
