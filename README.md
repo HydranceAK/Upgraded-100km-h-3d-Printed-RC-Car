@@ -29,7 +29,7 @@ History of Releases:
 - V1.5 May 25th 2026
 - V2 May 27th 2026
 - V3 June 21st 2026 (only on makerworld)
-- V4 June 29th 2026
+- V4 June 29th 2026 (UNSTABLE RELEASE, DO NOT PRINT)
 
  
 
